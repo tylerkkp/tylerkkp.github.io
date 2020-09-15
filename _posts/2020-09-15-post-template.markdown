@@ -1,6 +1,6 @@
 ---
 layout: post
-title: title template
+title: post template
 date: 2020-09-15 00:00:00 +0300
 description: insert description here # Add description (optional)
 img: dayne-topkin-y5_mFlLMwJk-unsplash.jpg # Add image post (optional)
