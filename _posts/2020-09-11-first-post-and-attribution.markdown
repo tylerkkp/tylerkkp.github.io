@@ -3,7 +3,7 @@ layout: post
 title: First Post and Attribution
 date: 2020-09-11 00:00:00 +0300
 description: Here I provide an intro for this blog, as well as provide attribution. Thank you to Artem Sheludko, the creator of this template, for his excellent work. # Add description (optional)
-img: software.jpg # Add image post (optional)
+img: dayne-topkin-y5_mFlLMwJk-unsplash.jpg # Add image post (optional)
 tags: [Thanks, Intro] # add tag
 ---
 
@@ -20,3 +20,7 @@ At the end of August 2020, I was laid-off for the first time in my life. I fully
 ### Attribution
 
 I want to give a very big Thank You to Artem Sheludko, the creator of this Jekyll template. His github is [here](https://github.com/artemsheludko). The flexible-jekyll theme I am using for this site is the nicest (free) static site template I have found on the internet. 
+
+### Photo Credit
+
+Photo by [Dayne Topkin](https://unsplash.com/@dtopkin1?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/begin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
