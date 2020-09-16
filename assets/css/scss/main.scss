@@ -14,7 +14,7 @@ body {
   font-family: 'Lato', sans-serif;
   color: $body-color;
   background-color: #fbfbfb;
-  margin: 0;
+  margin: 0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -111,8 +111,6 @@ table tfoot td {
 .wrapper {
   max-width: 1250px;
   position: relative;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .post, .article-page {
