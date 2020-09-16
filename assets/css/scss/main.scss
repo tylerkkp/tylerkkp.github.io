@@ -17,8 +17,6 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  position: relative;
-  text-align: center;
 }
 
 h1 {
@@ -113,6 +111,7 @@ table tfoot td {
 .wrapper {
   max-width: 1250px;
   position: relative;
+  margin: 0 auto;
 }
 
 .post, .article-page {
