@@ -22,10 +22,6 @@ html {
  */
 body {
   margin: 0;
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  align-items: center;
 }
 
 /**
@@ -890,6 +886,8 @@ table tfoot td {
 .wrapper {
   max-width: 1250px;
   position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .post, .article-page {
