@@ -1,4 +1,4 @@
-title: Hello, world! I'm Tyler K Parker
+title: Tyler Kuromiya Parker
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,10 +9,10 @@ url: "https://www.tkkp.dev" # the base hostname & protocol for your site, e.g. h
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Tyler K Parker # add your name
+author: Tyler Kuromiya Parker # add your name
 author-img: tyler_parker.jpg # add your photo
-about-author: I am a python developer with a background in mechanical engineering. I enjoy books, data visualizations, and bicycles. # add description
-social-twitter: # add your Twitter handle
+about-author: I am a python developer with a background in mechanical engineering. I enjoy books, beer, and bicycles. # add description
+social-twitter: tylerkp # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: tylerkkp # add your Github handle
 social-linkedin: tyler-parker # add your Linkedin handle
