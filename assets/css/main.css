@@ -885,8 +885,7 @@ table tfoot td {
 
 .wrapper {
   max-width: 1250px;
-  position: absolute;
-  margin: auto;
+  position: relative;
 }
 
 .post, .article-page {
@@ -1020,6 +1019,7 @@ table tfoot td {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
+  justify-content: center;
 }
 
 .contact .contact-title {
