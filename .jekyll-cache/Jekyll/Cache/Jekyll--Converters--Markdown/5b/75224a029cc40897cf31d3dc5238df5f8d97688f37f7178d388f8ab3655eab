@@ -1,0 +1,24 @@
+I"<p>I have been shopping around for a new laptop lately, and my specific list of ‘wants’ has been pointing me toward a few chromebooks. I’m going to be using this computer for programming and data analysis work, so I wanted to make sure that a chromebook will be up to the task.</p>
+
+<h3 id="google-colaboratory">Google Colaboratory</h3>
+
+<p>There are a bunch of cloud development platforms out there, but I wanted to try the Google offering first since it is sure to work well on a system running ChromeOS. I have to say I’m impressed. Jupyter notebooks in the cloud with easy Google Drive access - it just works.</p>
+
+<h3 id="github-gist">Github Gist</h3>
+
+<p>Conveniently, Github allows rendering of Jupyter notebooks in Gists, so I uploaded a copy of the notebook to Github, and will embed it below. If you are iterested in viewing the notebook on Github, it can be found <a href="https://gist.github.com/tylerkkp/380a27431894e464adfa22b0ede8dbe2">here</a></p>
+
+<noscript><pre>400: Invalid request</pre></noscript>
+<script src="https://gist.github.com/380a27431894e464adfa22b0ede8dbe2.js"> </script>
+
+<p>Here is the final graph from the above notebook:
+<img src="/assets/img/breweries_with_per_100k.png" alt="graph" /></p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>All in all, I’m very happy with how this little experiment turned out. I’m not sure I’d go with a bottom spec chromebook, but would be fairly comfortable getting a higher-spec chromebook like a Pixelbook. I will keep shopping and certainly provide an update if (when) I end up with a new machine :)</p>
+
+<h3 id="photo-credit">Photo Credit</h3>
+
+<p>Photo by <a href="https://unsplash.com/@evphotocinema?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Evan Dvorkin</a> on <a href="https://unsplash.com/s/photos/brewery?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+:ET
