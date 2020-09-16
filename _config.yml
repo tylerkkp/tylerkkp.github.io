@@ -19,10 +19,10 @@ social-linkedin: tyler-parker # add your Linkedin handle
 social-email: tylerkkp@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-178123215-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
