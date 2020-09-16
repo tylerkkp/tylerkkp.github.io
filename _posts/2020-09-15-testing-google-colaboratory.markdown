@@ -20,7 +20,7 @@ Conveniently, Github allows rendering of Jupyter notebooks in Gists, so I upload
 {% gist 380a27431894e464adfa22b0ede8dbe2 %}
 
 Here is the final graph from the above notebook:
-[graph](/assets/img/breweries_with_per_100k.png)
+![graph](/assets/img/breweries_with_per_100k.png)
 
 ### Conclusion
 
