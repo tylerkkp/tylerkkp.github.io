@@ -885,7 +885,8 @@ table tfoot td {
 
 .wrapper {
   max-width: 1250px;
-  position: relative;
+  position: absolute;
+  margin: auto;
 }
 
 .post, .article-page {
