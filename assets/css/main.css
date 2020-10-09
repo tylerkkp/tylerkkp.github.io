@@ -21,7 +21,7 @@ html {
  * Remove the margin in all browsers (opinionated).
  */
 body {
-  margin: 0;
+  margin: auto;
 }
 
 /**
@@ -885,6 +885,7 @@ table tfoot td {
 
 .wrapper {
   max-width: 1250px;
+  margin: auto;
   position: relative;
 }
 
@@ -926,7 +927,7 @@ table tfoot td {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
