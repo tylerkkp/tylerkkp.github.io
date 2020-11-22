@@ -23,7 +23,5 @@ Even more text
 
 ### Photo Credit
 
-Make sure to credit photographer!
-
 Photo by [Aaron Burden](https://unsplash.com/@aaronburden?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/blank?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
