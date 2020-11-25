@@ -1,8 +1,6 @@
 ## tkkp.dev (my personal website/blog)
 
-![screen shot][logo]
-
-[logo]: https://github.com/tylerkkp/tylerkkp.github.io/assets/img/tkkp_dev.png "screen shot"
+![screenshot](https://github.com/tylerkkp/tylerkkp.github.io/blob/master/assets/img/tkkp_dev.png)
 
 The second iteration of my personal website. I am using a Jekyll template (flexible-jekyll) built by [Artem Sheludko](https://github.com/artemsheludko), with a few minor modifications. 
 
