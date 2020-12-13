@@ -15,7 +15,7 @@ There are a bunch of cloud development platforms out there, but I wanted to try 
 
 ### Github Gist
 
-Conveniently, Github allows rendering of Jupyter notebooks in Gists, so I uploaded a copy of the notebook to Github, and will embed it below. If you are iterested in viewing the notebook on Github, it can be found [here](https://gist.github.com/tylerkkp/380a27431894e464adfa22b0ede8dbe2)
+Conveniently, Github allows rendering of Jupyter notebooks in Gists, so I uploaded a copy of the notebook to Github, and will embed it below. If you are interested in viewing the notebook on Github, it can be found [here](https://gist.github.com/tylerkkp/380a27431894e464adfa22b0ede8dbe2)
 
 {% gist 380a27431894e464adfa22b0ede8dbe2 %}
 
