@@ -4,29 +4,35 @@ title: goals for 2021
 date: 2021-01-31 00:00:00 +0300
 description: I'm a bit late getting to this, but what better time than the present to set out some goals for the coming calendar year?
 img: annie-spratt-GPCgLbBevQg-unsplash.jpg
-tags: [goalsetting, python, privacy]
+tags: [goalsetting, python, pandemic]
 ---
 
 ### 2020 Wrap-Up
 
 **Social Media**
+
 I finally deleted my Facebook account. That was a big win. I hadn't been active for at least the past decade, but kept it around as a digital rolodex of sorts. Turns out, I didn't have any reason to use it in an entire decade. I have phone/email info for friends I am in semi-regular contact with, and pretty much everyone has enough of an internet presence these days that few people are more than a Google search away. I haven't pulled the trigger yet, but I think I need to axe my Instagram account as well. I haven't used it for months and I feel it's been a healthy change. 
 
 **Friends and Family**
+
 Not much to say here. We didn't see many people this year. Our family has operated on the more cautious end of the spectrum. Sometimes it seems like the person I see most is our most frequent Instacart delivery person, Cris (thanks for your service, Cris!). I am very much an introvert, but I am looking forward to 2021 and spending some time with friends and family.
 
 **Finances**
+
 Despite my layoff at the end of July 2020, our family has weathered the pandemic very well. We are coming into 2021 with a higher net worth than the start of 2020 by a decent amount. Our investments are doing well and our emergency fund hasn't been depleted. We try very hard to keep our required monthly expenses relatively low, and my wife's been quite busy with her work. I've been lucky to be able to afford to be a stay-at-home dad for the duration of the pandemic, while simultaneously studying up to increase my skills as a software developer. I feel super fortunate to be where I am today, especially given the hardships this year has brought upon so many others.
 
 ### Goals for 2021
 
 **Friends and Family**
+
 For obvious reasons, 2020 was a bummer for relationships. On the upside, I think 2021 is gonna be a helluva year for socializing. We have had a backyard renovation going on for about 2 years, and the end is in sight. We've got new neighbors on two sides with another house being built next door, and once our patio is finished we will be able to host some neighborhood gatherings (once vaccinations get around). I miss our many great breweries as well. I'll set the lofty goal of never saying 'no' to an invite for beer, but I suspect family obligations may take precedent at some point. I will do my best to maximize 'yes' answers for all social events. 
 
 **Work**
+
 2021 is going to be an interesting year. I am very nearly finished with the IBM Data Science Professional specialization I'd set as my primary coursework for my self-styled bootcamp education. I've also completed a number of other shorter courses and skill tracks over the Fall and Winter. However, until the pandemic is under control and we have grandparent daycare available, my schedule is pretty restricted. My current plan is to continue to learn and build things, and begin contributing to a number of open source projects. I've already started contributing to [OpenBreweryDB](https://github.com/openbrewerydb/openbrewerydb), an open source database and API for craft breweries.
 
 **Health**
+
 Today was my first run of the year. It turns out that spending an entire year cooped up in your house working at the computer is no way to build up physical strength and endurance. I wasn't a speed demon back in my more regular running days, but I used to run 5k's in 20 minutes or so. Today I ran 2.5 miles in 28 minutes. Yikes. I'm going to blame that on the traffic signals and the extra weight from rain-soaked clothes... 
 In the interest of setting a specific goal, I'll say I'd like to run a 5k in under 24 minutes this year. As a relatively healthy 35 year old dude, I think that should be easily attainable.
 
@@ -35,12 +41,14 @@ In the interest of setting a specific goal, I'll say I'd like to run a 5k in und
 A couple of posts ago, I wrote about my switch to a chromebook (specifically, the Pixelbook Go). Well, that didn't last long. There are a lot of things that I love about the PB Go, but I was drawn in by the incredible performance and battery life gains of the M1 Apple chips. I picked up a base Macbook M1, which should have ample power for my day-to-day use. 
 
 **The things I prefer about the Macbook:**
+
 *Not running the primary OS in a container (as with Linux on a Pixelbook)
 *The Force Touch trackpad is the best touchpad I've used, by a decent margin
 *Screen ratio - like the trackpad, this is the first 16:10 laptop I've used. It is noticeably more spacious in the right direction for productivity.
 *Biometric login - the fingerprint reader is quick and effective.
 
 **The things I prefer about the Pixelbook:**
+
 *The _Keyboard!_ - the Pixelbook has the best keyboard ever on a laptop (yes, I've owned Thinkpads). This is a hill I will die on.
 *The webcam - I did a side by side comparison, and the Macbook is decent and captures colors better. I look a bit pale on the Pixelbook, but the image quality is crisp.
 
