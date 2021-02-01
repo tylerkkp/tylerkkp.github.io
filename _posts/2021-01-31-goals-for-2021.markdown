@@ -1,6 +1,6 @@
 ---
 layout: post
-title: goals for 2021
+title: Goals for 2021
 date: 2021-01-31 00:00:00 +0300
 description: I'm a bit late getting to this, but what better time than the present to set out some goals for the coming calendar year?
 img: annie-spratt-GPCgLbBevQg-unsplash.jpg
@@ -42,15 +42,15 @@ A couple of posts ago, I wrote about my switch to a chromebook (specifically, th
 
 **The things I prefer about the Macbook:**
 
-*Not running the primary OS in a container (as with Linux on a Pixelbook)
-*The Force Touch trackpad is the best touchpad I've used, by a decent margin
-*Screen ratio - like the trackpad, this is the first 16:10 laptop I've used. It is noticeably more spacious in the right direction for productivity.
-*Biometric login - the fingerprint reader is quick and effective.
+* Not running the primary OS in a container (as with Linux on a Pixelbook)
+* The Force Touch trackpad is the best touchpad I've used, by a decent margin
+* Screen ratio - like the trackpad, this is the first 16:10 laptop I've used. It is noticeably more spacious in the right direction for productivity.
+* Biometric login - the fingerprint reader is quick and effective.
 
 **The things I prefer about the Pixelbook:**
 
-*The _Keyboard!_ - the Pixelbook has the best keyboard ever on a laptop (yes, I've owned Thinkpads). This is a hill I will die on.
-*The webcam - I did a side by side comparison, and the Macbook is decent and captures colors better. I look a bit pale on the Pixelbook, but the image quality is crisp.
+* The _Keyboard!_ - the Pixelbook has the best keyboard ever on a laptop (yes, I've owned Thinkpads). This is a hill I will die on.
+* The webcam - I did a side by side comparison, and the Macbook is decent and captures colors better. I look a bit pale on the Pixelbook, but the image quality is crisp.
 
 Anyway, I'm pretty sold on Apple at this point. I plan to slowly extricate myself from the Google ecosystem over the next year and transition to Apple, likely with the exception of Gmail. Of all my goals for the coming year, I think this is the most challenging. 
 
