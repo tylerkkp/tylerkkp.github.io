@@ -27,18 +27,24 @@ Despite my layoff at the end of July 2020, our family has weathered the pandemic
 
 For obvious reasons, 2020 was a bummer for relationships. On the upside, I think 2021 is gonna be a helluva year for socializing. We have had a backyard renovation going on for about 2 years, and the end is in sight. We've got new neighbors on two sides with another house being built next door, and once our patio is finished we will be able to host some neighborhood gatherings (once vaccinations get around). I miss our many great breweries as well. I'll set the lofty goal of never saying 'no' to an invite for beer, but I suspect family obligations may take precedent at some point. I will do my best to maximize 'yes' answers for all social events. 
 
+- [] Have beer/coffee with someone outside of my household at least 20x
+
 **Work**
 
 2021 is going to be an interesting year. I am very nearly finished with the IBM Data Science Professional specialization I'd set as my primary coursework for my self-styled bootcamp education. I've also completed a number of other shorter courses and skill tracks over the Fall and Winter. However, until the pandemic is under control and we have grandparent daycare available, my schedule is pretty restricted. My current plan is to continue to learn and build things, and begin contributing to a number of open source projects. I've already started contributing to [OpenBreweryDB](https://github.com/openbrewerydb/openbrewerydb), an open source database and API for craft breweries.
+
+- [] Make at least 20 substantial contributions to open source projects
 
 **Health**
 
 Today was my first run of the year. It turns out that spending an entire year cooped up in your house working at the computer is no way to build up physical strength and endurance. I wasn't a speed demon back in my more regular running days, but I used to run 5k's in 20 minutes or so. Today I ran 2.5 miles in 28 minutes. Yikes. I'm going to blame that on the traffic signals and the extra weight from rain-soaked clothes... 
 In the interest of setting a specific goal, I'll say I'd like to run a 5k in under 24 minutes this year. As a relatively healthy 35 year old dude, I think that should be easily attainable.
 
+- [] Run 5k in less than 24 minutes
+
 ### Transitioning to Apple
 
-A couple of posts ago, I wrote about my switch to a chromebook (specifically, the Pixelbook Go). Well, that didn't last long. There are a lot of things that I love about the PB Go, but I was drawn in by the incredible performance and battery life gains of the M1 Apple chips. I picked up a base Macbook M1, which should have ample power for my day-to-day use. 
+A couple of posts ago, I wrote about my switch to a chromebook (specifically, the Pixelbook Go). Well, that didn't last long. There are a lot of things that I love about the PB Go, but I was drawn in by the incredible performance and battery life gains of the M1 Apple chips. I picked up a base Macbook Air M1, which should have ample power for my day-to-day use. 
 
 **The things I prefer about the Macbook:**
 
