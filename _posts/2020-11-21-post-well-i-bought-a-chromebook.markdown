@@ -3,7 +3,7 @@ layout: post
 title: Well, I Bought a Chromebook
 date: 2020-11-21 00:00:00 +0300
 description: I bought a chromebook. Here is my review and thoughts on utility for general-purpose use. # Add description (optional)
-img: arthur-osipyan-5OyvN4Yx46E-unsplash.jpg # Add image post (optional)
+img: arthur-osipyan-5OyvN4Yx46E-unsplash.webp # Add image post (optional)
 tags: [chromeos, pixelbook, chromebook, review, pixelbook_go] # add tag
 ---
 

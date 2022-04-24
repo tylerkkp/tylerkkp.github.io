@@ -3,7 +3,7 @@ layout: post
 title: Internet U
 date: 2021-11-19 00:00:00 +0300
 description: The internet is an amazing place to learn about pretty much anything. In this post I write about what, why, and where I am currently learning. # Add description (optional)
-img: thomas-jensen-internet.jpg # Add image post (optional)
+img: thomas-jensen-internet.webp # Add image post (optional)
 tags: [internet, study, learning, rust, cs50] # add tag
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Goals for 2021
 date: 2021-01-31 00:00:00 +0300
 description: I'm a bit late getting to this, but what better time than the present to set out some goals for the coming calendar year?
-img: annie-spratt-GPCgLbBevQg-unsplash.jpg
+img: annie-spratt-GPCgLbBevQg-unsplash.webp
 tags: [goalsetting, python, pandemic]
 ---
 

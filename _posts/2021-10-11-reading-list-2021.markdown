@@ -3,7 +3,7 @@ layout: post
 title: Reading List 2021
 date: 2021-10-11 00:00:00 +0300
 description: Books - read and reading for 2021 # Add description (optional)
-img: daria-nepriakhina-xY55bL5mZAM-unsplash.jpg # Add image post (optional)
+img: daria-nepriakhina-xY55bL5mZAM-unsplash.webp # Add image post (optional)
 tags: [reading, books, education, learning] # add tag
 ---
 
@@ -175,7 +175,7 @@ As a student of data science and social policy, I wanted to find out more about 
 
 #### The Rust Programming Language (Steve Klabnik, Carol Nichols)
 
-![The Rust Programming Language cover](/assets/img/rust_2018.png)
+![The Rust Programming Language cover](/assets/img/rust_2018.webp)
 
 [no starch press - paperback and ebook](https://nostarch.com/Rust2018)
 

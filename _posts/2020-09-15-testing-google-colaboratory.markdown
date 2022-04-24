@@ -3,7 +3,7 @@ layout: post
 title: Testing Google Colaboratory
 date: 2020-09-15 00:00:00 +0300
 description: I set about doing some quick and dirty data exploration using Google Colaboratory # Add description (optional)
-img: evan-dvorkin-NCmog4xinew-unsplash.jpg # Add image post (optional)
+img: evan-dvorkin-NCmog4xinew-unsplash.webp # Add image post (optional)
 tags: [beer, data] # add tag
 ---
 

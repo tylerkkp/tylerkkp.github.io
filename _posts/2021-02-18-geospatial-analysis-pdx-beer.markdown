@@ -3,7 +3,7 @@ layout: post
 title: Geospatial Analysis of Portland Breweries
 date: 2021-02-18 00:00:00 +0300
 description: Taking a look at the groupings of breweries in Portland Oregon, to find the best neighborhoods for beer tourism
-img: zack-spear-ZB_Ns0hVZNk-unsplash.jpg
+img: zack-spear-ZB_Ns0hVZNk-unsplash.webp
 tags: [brewery, beer, folium, geospatial, geoJSON]
 ---
 
