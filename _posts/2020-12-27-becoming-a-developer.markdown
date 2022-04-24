@@ -3,7 +3,7 @@ layout: post
 title: Becoming a Developer
 date: 2020-12-27 00:00:00 +0300
 description: I've spent the last 5 months preparing for a career switch. Here are all the things I've learned, and have planned.
-img: russ-ward-bqzLehtF8XE-unsplash.jpg
+img: russ-ward-bqzLehtF8XE-unsplash.webp
 tags: [education, computer_science, career_advice] # add tag
 ---
 
