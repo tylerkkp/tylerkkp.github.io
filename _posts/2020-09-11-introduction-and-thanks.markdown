@@ -3,7 +3,7 @@ layout: post
 title: Introduction and Thanks
 date: 2020-09-11 00:00:00 +0300
 description: Here I provide an intro for this blog, as well as provide attribution. Thank you to Artem Sheludko, the creator of this template, for his excellent work. # Add description (optional)
-img: dayne-topkin-y5_mFlLMwJk-unsplash.jpg # Add image post (optional)
+img: dayne-topkin-y5_mFlLMwJk-unsplash.webp # Add image post (optional)
 tags: [Thanks, Intro] # add tag
 ---
 
