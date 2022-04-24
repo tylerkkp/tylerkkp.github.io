@@ -3,7 +3,7 @@ layout: post
 title: post template
 date: 2020-09-10 00:00:00 +0300
 description: insert description here # Add description (optional)
-img: aaron-burden-xG8IQMqMITM-unsplash.jpg # Add image post (optional)
+img: aaron-burden-xG8IQMqMITM-unsplash.webp # Add image post (optional)
 tags: [tag1, tag2] # add tag
 ---
 
